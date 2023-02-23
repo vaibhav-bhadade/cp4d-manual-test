@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "asset_type": "connection",
+    "name": "CloudObjectStorage",
+    "origin_country": "us",
+    "rov": {
+      "mode": 0
+    },
+    "resource_key": "||",
+    "asset_category": "USER",
+    "created_at": "2023-02-23T12:05:24Z",
+    "created": 1677153924808,
+    "asset_id": "connection.CloudObjectStorage",
+    "asset_attributes": [
+      "connection"
+    ]
+  },
+  "entity": {
+    "connection": {
+      "datasource_type": "193a97c1-4475-4a19-b90c-295c4fdc6517",
+      "context": "source,target",
+      "flags": [],
+      "ref_catalog_id": "9a3b4021-391f-4062-9781-716b8f0944fe",
+      "ref_asset_id": "e557a851-6652-435b-89f1-063d5fbe07ba"
+    }
+  },
+  "attachments": []
+}
