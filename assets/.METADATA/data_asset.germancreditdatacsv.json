@@ -9,7 +9,8 @@
     "asset_id": "data_asset.germancreditdatacsv",
     "asset_attributes": [
       "data_asset"
-    ]
+    ],
+    "description": "To test scenario7"
   },
   "entity": {
     "data_asset": {
