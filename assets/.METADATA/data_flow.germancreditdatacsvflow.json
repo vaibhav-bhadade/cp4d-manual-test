@@ -33,7 +33,8 @@
       "id": "22ce9e60-422e-4d98-82f2-8c7674b5fd63",
       "is_managed": false,
       "is_referenced": true,
-      "is_remote": false
+      "is_remote": false,
+      "size": 4541
     }
   ]
 }
