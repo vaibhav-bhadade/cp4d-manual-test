@@ -1,2 +1,2 @@
 # cp4d-manual-test
-cp4d-manual-test repo for testing cp4d
+cp4d-manual-test git repo by test user for cp4d manual test
